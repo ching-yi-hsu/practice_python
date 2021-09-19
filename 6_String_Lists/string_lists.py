@@ -6,5 +6,3 @@ if str_word == str_word_rev :
 else :
     print(str_word, " isn't a palindrome word")
 
-
-
